@@ -65,4 +65,4 @@ This project highlights:
 > **Please do not copy or directly use this project in your resume, portfolio, or anywhere else.**  
 > I highly encourage you to practice and build your own version to develop your real skills.
 
--⭐ This EDA project was completed as part of my data analytics training/Journey And the EDA Project Done At <a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>,Surat.
+-⭐ This Excel project was completed as part of my data analytics training/Journey And the Excel Project Done At <a href="https://futurevisioncomputers.com/">Future Vision Computer Institute</a>,Surat.
